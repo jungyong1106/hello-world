@@ -6,3 +6,4 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log("PlayerMovement");
     }
+}
