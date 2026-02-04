@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    void start()
+    void Start()
     {
         Debug.Log("나는 적이다");
     }
